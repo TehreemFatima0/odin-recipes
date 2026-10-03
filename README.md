@@ -1,2 +1,2 @@
 # odin-recipes
-# in this file, i will be documenting what i have done throughout this project
+# In this file, I will be documenting what I learn about using Git and pushing code to Github throughout this project.
